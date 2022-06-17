@@ -1,0 +1,15 @@
+package arraysAndCollections;
+
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class hashishMap {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		
+		HashMap<Integer, String> listaAlunos= new HashMap<Integer, String>()
+		
+		
+		sc.close();
+	}
+}

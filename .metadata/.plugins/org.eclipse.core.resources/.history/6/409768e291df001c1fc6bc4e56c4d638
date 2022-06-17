@@ -1,0 +1,13 @@
+package fundamentos;
+
+public class DesafioOperacoesAritimeticas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Double numA=Math.pow(6*(3+2), 2);
+		Integer denA=3*2;
+		
+		Integer numB=Math.pow(((1+5)*(2-7))/2), 2);
+	}
+
+}

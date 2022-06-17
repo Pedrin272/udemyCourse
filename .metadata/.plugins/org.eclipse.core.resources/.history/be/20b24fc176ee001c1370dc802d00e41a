@@ -1,0 +1,22 @@
+package arraysAndCollections;
+
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class hashishMap {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		
+		HashMap<Integer, String> listaAlunos= new HashMap<Integer, String>();
+		listaAlunos.put(1, "Pedro");
+		listaAlunos.put(2, "John");
+		listaAlunos.put(3, "Elisa");
+		listaAlunos.put(4, "Anne");
+		
+		System.out.println(carros);
+		for (int i =0; i< listaAlunos.lenght(); i++) {
+			System.out.println(carros.get(i));
+		}
+		sc.close();
+	}
+}

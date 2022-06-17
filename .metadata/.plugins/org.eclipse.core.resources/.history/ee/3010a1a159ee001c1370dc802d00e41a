@@ -1,0 +1,13 @@
+package schoolGradeSys;
+
+public class Students {
+	public void studentConst() {
+		String Name;
+		String Classe;
+	
+	}
+
+
+
+
+}

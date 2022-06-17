@@ -1,0 +1,19 @@
+package schoolGradeSys;
+
+public class MeuEstudante {
+		String name;
+		String classe;
+		double mediaAluno;
+		MeuEstudante(){
+			dia=1;
+			mes=1;
+			ano=1970;
+			
+		}
+		MeuEstudante(String nomeInicial,String classeInicial,double mediaInicial) {
+			dia=diaInicial;
+			mes=mesInicial;
+			ano=anoInicial;
+		}
+		
+}

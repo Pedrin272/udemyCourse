@@ -1,0 +1,8 @@
+package schoolGradeSys;
+
+public class Students {
+	public void studentConst() {
+		int age;
+		
+	}
+}

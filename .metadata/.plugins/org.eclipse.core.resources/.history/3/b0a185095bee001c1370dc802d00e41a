@@ -1,0 +1,23 @@
+package schoolGradeSys;
+
+import java.util.Scanner;
+
+public class Students {
+	public void student() {
+		String name;
+		String classe;
+		double mediaAluno;
+	}
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		
+		s
+		
+		
+		
+		sc.close();
+	}
+
+
+}

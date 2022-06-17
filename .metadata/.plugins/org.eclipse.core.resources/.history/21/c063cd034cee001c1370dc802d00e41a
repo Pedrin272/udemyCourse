@@ -1,0 +1,11 @@
+package arraysAndCollections;
+
+import java.util.Scanner;
+
+public class MyArrays {
+	public static void main(String[] args) {
+		Scanner sc =new Scanner();
+		
+		sc.close();
+	}
+}

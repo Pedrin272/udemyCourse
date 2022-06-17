@@ -1,0 +1,18 @@
+package myClasses;
+
+public class Data {
+	Data(){}
+	Data(int diaInicial,int mesInicial.int anoInicial){
+		diaInicia=1;
+		mesInicial=1;
+		anoInicial=1970;
+	}
+	
+	int dia;
+	int mes;
+	int ano;
+	
+	public String obterDataFormatada() {
+		return String.format("%d/%d/%d",dia,mes,ano);
+	}
+}
