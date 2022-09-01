@@ -1,8 +1,0 @@
-package myClasses;
-
-public class MinhaData {
-	String obterDataFormatada() {
-	return String.format(null, null);	
-		
-	}
-}

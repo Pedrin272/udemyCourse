@@ -1,8 +1,0 @@
-package schoolGradeSys;
-
-public class MeuStudent {
-		String name;
-		String classe;
-		double mediaAluno;
-	}
-}

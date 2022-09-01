@@ -3,7 +3,7 @@ package fundamentos.operadores;
 public class DesafioOperacoesAritimeticas {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		Double numA=Math.pow(6*(3+2), 2);
 		Double denA= (double) (3*2);
 		
